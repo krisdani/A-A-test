@@ -6,7 +6,9 @@ A/A tests and quality checks of split systems.
 
 ## Описание колонок:
 experimentVariant – вариант эксперимента
+
 version – версия приложения
+
 purchase – факт покупки
 
 ## Задача.
