@@ -1,4 +1,4 @@
-# A-A-test
+# Mobile app testing
 A/A tests and quality checks of split systems.
 
 ## Описание задания.
